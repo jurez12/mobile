@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Rsrc-Class-Path: ./ testng-6.8.1.jar Library.jar selenium-server-stand
+ alone-2.32.0.jar log4j-api-2.0-beta6.jar selendroid-client-0.4-SNAPSH
+ OT.jar apache-commons-logging.jar jetty-all-7.0.2.v20100331.jar log4j
+ -core-2.0-beta6.jar httpclient-4.2.5.jar selenium-java-2.32.0.jar sel
+ enium-server-2.32.0.jar httpcore-4.2.4.jar json.jar servlet-api-2.5.j
+ ar
+Class-Path: .
+Rsrc-Main-Class: zAgent.ZAgent
+Main-Class: org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader
+
